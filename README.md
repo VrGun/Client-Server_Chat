@@ -1,6 +1,8 @@
 # Client-Server Chat [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]
 (https://github.com/sudtanj/Client-Server_Chat)
 
+This project is for class project in Universitas Pelita Harapan.
+
 ## Project Member
 | No | Profile Picture | Member Name | Github Userid | Student Id Number |
 | ------ | ------ | ------ | ------ | ------ |
@@ -15,4 +17,3 @@
 | 9. | <img src="https://avatars.githubusercontent.com/VrGun" width=100 height=100/> | Veri Gunawan | <a title="@VrGun" href="https://github.com/VrGun">@VrGun</a> |              				 00000012343 |
 
 ## Reference
-
