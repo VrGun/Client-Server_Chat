@@ -1,7 +1,7 @@
 # Client-Server Chat [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]
 (https://github.com/sudtanj/Client-Server_Chat)
 
-This project is for class project in Universitas Pelita Harapan.
+This project is for class project in Universitas Pelita Harapan. This project is for study purposed only!
 
 ## Project Member
 | No | Profile Picture | Member Name | Github Userid | Student Id Number |
